@@ -5,6 +5,8 @@ diffdots:    ●●●●
 submission:  Optional
 eligible:    Qualify at ACF Regionals
 name:        ACF Nationals
-firstmirror: 2022-04-22
+firstmirror: 2023-04-22
+mirrors:
+  - { date: 2023-04-22, region: TBA, name: TBA, url: "https://hsquizbowl.org/forums/viewtopic.php?t=26100" }
 announced:   2022-07-14
 announceurl: https://hsquizbowl.org/forums/viewtopic.php?t=26100
